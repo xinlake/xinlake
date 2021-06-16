@@ -12,7 +12,7 @@ Private Channel，现代跨平台加密连接客户端项目。
 - [privch-windows.](https://github.com/xinlake/privch-windows) 早期版本的 PrivCh Windows 端，是 WPF 应用程序，*将会合并到 Flutter 跨平台客户端方案里*。
 
 ## Creator
-[创造者](https://github.com/xinlake/creator)，一个 [Hugo](https://gohugo.io/) 个人网站页面模板，开源这个模板的目的主要是学习和改进。
+[创造者](https://github.com/xinlake/creator)，一个 Hugo 个人网站页面模板，开源这个模板的目的主要是学习和改进。
 
 <!--
 - 🔭 I’m currently working on ...
